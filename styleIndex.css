@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: #BC7842;
+    height: 75px;
+}
+a{
+    color: white;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D4C8C0;
+    height: 1200px;
+}
+footer{
+    background-color: #BC7842;
+    height: 75px;
+}
+.block{
+    width: 10vw;
+    background-color: rgb(223, 218, 218);
+    border-radius: 1px;
+}
